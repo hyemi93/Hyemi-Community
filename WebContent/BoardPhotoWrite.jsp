@@ -25,9 +25,7 @@
 			<div class="mb-3">
 				<select name="category">
 					<option value="">게시판을 선택하세요.</option>
-					<option value="공지사항" <c:if test="${param.category=='공지사항'}">selected</c:if>>공지사항</option>
-					<option value="사진게시판" <c:if test="${param.category=='사진게시판'}">selected</c:if>>사진게시판</option>
-					<option value="등업신청" <c:if test="${param.category=='등업신청'}">selected</c:if>>등업신청</option>
+					<option value="갤러리" <c:if test="${param.category=='갤러리'}">selected</c:if>>갤러리</option>
 				</select>
 					<div id="margin_top"></div>
 				<input type="text" name="title" class="form-control" placeholder="제목을 입력하세요.">
