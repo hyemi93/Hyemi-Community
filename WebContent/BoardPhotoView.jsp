@@ -31,7 +31,7 @@
 		<%} %>
 			<Br>
 			<hr>
-			<div id="subject"><img src="./uploadimg/<%=dto.getPhotoimg() %>" style="width: 300px; height: 300px;"></div><Br>
+			<div id="subject"><img src="./uploadimg/<%=dto.getPhotoimg() %>"></div><Br>
 			<div id="margin_top"></div>
 			<%=dto.getContent() %>
 		</div>
