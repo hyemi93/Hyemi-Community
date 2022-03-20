@@ -13,3 +13,8 @@
 ![포트폴리오_허혜미_최종_21](https://user-images.githubusercontent.com/101648944/159151107-cb24f919-344e-4ed6-a49d-2d8614f72b29.png)
 ![포트폴리오_허혜미_최종_22](https://user-images.githubusercontent.com/101648944/159151114-d4cd627a-5164-4b0f-8cf9-8d84d1648eff.png)
 <Br><Br>
+  
+**3. 회원 및 관리자 프로세스**  
+![포트폴리오_허혜미_최종_24](https://user-images.githubusercontent.com/101648944/159151237-2bed39a0-7f5e-43bd-a574-314e3b4d069d.png)
+![포트폴리오_허혜미_최종_25](https://user-images.githubusercontent.com/101648944/159151240-d308768b-59a9-4e20-834c-9cf2a4c29022.png)
+
