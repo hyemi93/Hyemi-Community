@@ -68,7 +68,7 @@ function checkbox_ck() {
 
 <div style="margin: 30px 0 0 250px;">
 	<input type="submit" value="회원가입" class="btn btn-danger">
-	<a href="index.jsp"><input type="button" value="메인으로" class="btn btn-light"></a>
+	<a href="Index.jsp"><input type="button" value="메인으로" class="btn btn-light"></a>
 </div>
 </form>
 </section>
